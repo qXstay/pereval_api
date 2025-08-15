@@ -1,0 +1,31 @@
+{
+  "beauty_title": "пер.",
+  "title": "Пхия",
+  "other_titles": "",
+  "connect": "",
+  "add_time": "2023-10-05 12:00:00",
+  "user": {
+    "email": "test@mail.ru",
+    "fam": "Пупкин",
+    "name": "Василий",
+    "otc": "Иванович",
+    "phone": "+7 555 55 55"
+  },
+  "coords": {
+    "latitude": "45.3842",
+    "longitude": "7.1525",
+    "height": "1200"
+  },
+  "level": {
+    "winter": "",
+    "summer": "1A",
+    "autumn": "1A",
+    "spring": ""
+  },
+  "images": [
+    {
+      "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+      "title": "Седловина"
+    }
+  ]
+}
